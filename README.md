@@ -38,7 +38,10 @@ This Power BI project presents an end-to-end **sales and customer performance da
 
 ## 📸 Dashboard Screenshots
 
-<img width="2048" height="1138" alt="Product" src="https://github.com/user-attachments/assets/34e63f0e-c862-40d7-8dd2-939d7dc846f7" />
+<img width="2048" height="1143" alt="Customer" src="https://github.com/user-attachments/assets/9be9e747-ce58-4b23-a391-1b2f17a9510e" />
+<img width="2048" height="1149" alt="Overview1" src="https://github.com/user-attachments/assets/3439aaad-4139-4cf1-bfa5-ad8d37ae0b02" />
+<img width="2048" height="1134" alt="Overview2" src="https://github.com/user-attachments/assets/c42f0bd4-61cf-49e2-a596-82dc2750b783" />
+<img width="2048" height="1138" alt="Product" src="https://github.com/user-attachments/assets/0c7ebc1b-f5b5-42e4-a8d2-a074f76eaca6" />
 
 
 
@@ -71,6 +74,4 @@ This Power BI project presents an end-to-end **sales and customer performance da
 ## 🙋‍♂️ Author
 Chirag Koitiya
 
-**Vrund Patel**  
-B.Tech Data Science | Passionate about turning data into insights
-# power-bi
+
